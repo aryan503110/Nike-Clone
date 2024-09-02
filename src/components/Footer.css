@@ -1,0 +1,10 @@
+.footer {
+    margin: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(143, 143, 126);
+    max-width: 80vw;
+    cursor: pointer;
+}
